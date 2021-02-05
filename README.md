@@ -1,6 +1,6 @@
 # pictures-sharing-app
 small app like insta where u can share pictures and view others pictures. That's it.
-
+<hr>
 <ul>
 <li>JAVA</li>
 <li>ANDROID STUDIO</li>
@@ -9,6 +9,7 @@ small app like insta where u can share pictures and view others pictures. That's
 </ul>
 
 <h3>Features: </h3>
+<hr>
 <ul>
 <li>LOGIN</li>
 <li>SIGNUP</li>
