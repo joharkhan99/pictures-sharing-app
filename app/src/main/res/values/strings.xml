@@ -2,6 +2,6 @@
     <string name="app_name">Parser Server Demo</string>
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <!-- Change the following strings as required -->
-    <string name="back4app_app_id">rNPhi9js3BNag4RhRQIBeAyHe0WPoMUJEkCTQy3B</string>
-    <string name="back4app_client_key">drnBeeaP30d6SWwxcSUcr1pXdJVkzgcPEjDYB6s3</string>
+    <string name="back4app_app_id">Your_app_id</string>
+    <string name="back4app_client_key">Your_client_key</string>
 </resources>
